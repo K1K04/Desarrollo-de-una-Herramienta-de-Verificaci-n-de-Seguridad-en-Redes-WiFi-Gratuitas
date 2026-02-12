@@ -8,7 +8,10 @@ sitios web previamente definidos, comparando las direcciones IP de resolución l
 las obtenidas en la conexión activa.
 
 sudo apt update
+
 sudo apt install python3 python3-pip -y
+
 chmod +x wifi_checker.py
+
 python3 wifi_checker.py / ./wifi_checker.py
 
